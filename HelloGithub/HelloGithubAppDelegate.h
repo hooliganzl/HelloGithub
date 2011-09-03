@@ -11,7 +11,8 @@
 @interface HelloGithubAppDelegate : NSObject <UIApplicationDelegate> {
 
 }
-
+//AAA
+//BBB
 @property (nonatomic, retain) IBOutlet UIWindow *window;
 
 @end
