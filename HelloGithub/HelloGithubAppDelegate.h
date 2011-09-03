@@ -13,6 +13,8 @@
 }
 //AAA
 //BBB
+
+//CCC
 @property (nonatomic, retain) IBOutlet UIWindow *window;
 
 @end
